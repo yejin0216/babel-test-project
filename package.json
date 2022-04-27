@@ -1,0 +1,27 @@
+{
+  "name": "babel-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yejin0216/babel-test-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yejin0216/babel-test-project/issues"
+  },
+  "homepage": "https://github.com/yejin0216/babel-test-project#readme",
+  "dependencies": {
+    "@babel/cli": "^7.17.6",
+    "@babel/core": "^7.17.9",
+    "@babel/plugin-transform-arrow-functions": "^7.16.7",
+    "@babel/plugin-transform-template-literals": "^7.16.7",
+    "@babel/preset-react": "^7.16.7"
+  }
+}
